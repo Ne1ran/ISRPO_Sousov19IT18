@@ -1,0 +1,10 @@
+окт. 25, 2021 2:08:38 PM com.company.Main main
+INFO: Запуск программы
+окт. 25, 2021 2:08:38 PM com.company.Main main
+INFO: Выдан запрос на ввод действия
+окт. 25, 2021 2:08:40 PM com.company.Main main
+INFO: Выбран перевод километров в световые года
+окт. 25, 2021 2:08:40 PM com.company.Main main
+INFO: Запрос на ввод километров
+окт. 25, 2021 2:08:41 PM com.company.Main main
+SEVERE: Неправильный перевод данных java.lang.ArithmeticException: Rounding necessary
